@@ -1,0 +1,8 @@
+YSI_TEST_*
+compile_flags.txt
+pawno/*
+plugins/*
+gamemodes/*
+scriptfiles/*
+!.gitkeep
+samp-server.exe
