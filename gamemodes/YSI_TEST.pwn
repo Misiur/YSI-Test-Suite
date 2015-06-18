@@ -116,7 +116,7 @@ public OnGameModeInit()
 #include <YSI_Storage\y_xml>
 
 #include <YSI_Visual\y_areas>
-//#include <YSI_Visual\y_classes>
+#include <YSI_Visual\y_classes>
 #include <YSI_Visual\y_commands>
 #include <YSI_Visual\y_dialog>
 //#include <YSI_Visual\y_properties>
